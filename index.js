@@ -13,9 +13,10 @@ const client = new Client({
 const imagePairs = [
     {
         theme: "Golden Retriever vs. Labrador",
-        crewImage: "https://images.unsplash.com/photo-1552053831-71594a27632d", 
-        impostorImage: "https://images.unsplash.com/photo-1583511655857-d19b40a7a54e" 
+        crewImage: "https://rengood1.github.io/imposter-game-discord/images/dog_crew.jpg", 
+        impostorImage: "https://rengood1.github.io/imposter-game-discord/images/dog_impostor.jpg" 
     },
+
     {
         theme: "Granny Smith Apple vs. Green Pear",
         crewImage: "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6", 
